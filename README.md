@@ -1,5 +1,5 @@
 # electrochemist
-Electrochemistry software http://='electrochemist.com'>Electrochemist.com </a> (former Polar and Polarograph) is virtual electrochemist who can analyze and simulate electrochemical experiments.
+Electrochemistry software <a href='http://electrochemist.com'>Electrochemist.com </a> (former Polar and Polarograph) is virtual electrochemist who can analyze and simulate electrochemical experiments.
 
 <ul>
 <li>It  <b>simulates</b> 
