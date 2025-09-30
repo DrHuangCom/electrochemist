@@ -18,7 +18,7 @@ and potential, convection, pH, the reactant and product numbers, etc.
 </ol>
 <li>It provides five ways to check accuracy of simulation. 
 <li>It calculates over 1000 types of theoretical peak values. 
-<li>It separates the <a href=plot.htm>overlapped peaks</a>.
-<li>It retrieves electrochemical parameters from experiment by <a href=plot.htm>curve fitting</a>.
+<li>It separates the <a href='plot.htm'>overlapped peaks</a>.
+<li>It retrieves electrochemical parameters from experiment by <a href='plot.htm'>curve fitting</a>.
 </ul>
 Read its <a href="polar.doc.htm">manual</a> for more.
