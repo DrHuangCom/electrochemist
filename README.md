@@ -14,7 +14,7 @@ Electrochemistry software <a href='http://electrochemist.com'>Electrochemist.com
 additive square wave, staircase voltammetries, <b>user-defined or imported waveform</b> chronoamperometry and voltammetry). 
 <li>
  the effects to change 35 parameters, e.g. charge current, resistance, noise, preconcentration time 
-and potential, convection, pH, the reactant and product numbers, etc. 
+and potential, convection, pH, the reactant and product numbers, etc. </li>
 </ol>
 <li>It provides five ways to check accuracy of simulation. 
 <li>It calculates over 1000 types of theoretical peak values. 
